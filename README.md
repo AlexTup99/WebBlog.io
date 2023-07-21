@@ -1,2 +1,0 @@
-# WebBlog.io
-AlgoWeb1
